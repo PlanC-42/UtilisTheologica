@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Home"
             }
           }
         ]
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A bit iffy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for A bit iffy"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A bit iffy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from A bit iffy"
             }
           },
           {
@@ -170,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "A bit iffy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of A bit iffy"
             }
           },
           {
@@ -207,8 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66acb5dc3b4d5552",
+  "active": "a015f684b09a8d3a",
   "lastOpenFiles": [
+    "A bit iffy.md",
+    "Home.md",
     "Welcome.md"
   ]
 }
