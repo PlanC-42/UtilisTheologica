@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Going for the last test"
             }
+          },
+          {
+            "id": "d256473202a8b9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "77a48a004b8f95ce",
@@ -239,10 +253,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e80b3602d22824b",
+  "active": "d256473202a8b9e7",
   "lastOpenFiles": [
-    "Just another Test.md",
     "Going for the last test.md",
+    "Untitled.md",
+    "Just another Test.md",
     "Home.md",
     "A bit iffy.md",
     "Welcome.md"
