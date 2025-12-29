@@ -1,3 +1,5 @@
+# Preface
+
 The purpose of the present work is to formulate sound theological or philosophical arguments around practical problems that one is likely to face in his experience of life. In so formulating the contributors hope to gain insight into these problems and retain the solutions by virtue of the familiarity one has with his own work. This familiarity of insights and arguments will be invaluable for readily bringing coherent truth to bear in impromptu philosophical discussion.
 
 The form of the disputation is perfectly suited to fulfill these purposes. The organization of the disputation clearly formulates the problem, objections, relevant authority, argument, and replies to the objections. Furthermore, insofar as they already resemble notes for an expanded verbal discussion they aim directly at a key purpose for this work. 
