@@ -17,7 +17,7 @@
 		{"id":"909dffe24e30c87b","type":"text","text":"Art. 2.1 Whether Boethius' Definition is adequate","x":540,"y":114,"width":250,"height":60},
 		{"id":"2cbfce71a77a5158","type":"text","text":"Art. 2.2 Whether Persons are Knowable","x":540,"y":271,"width":250,"height":60},
 		{"id":"e9bdda5223f45aab","type":"text","text":"Art. 2.3 Whether All Persons are Directly Created by God","x":541,"y":426,"width":249,"height":93},
-		{"id":"b02ad6045cd2f23b","x":397,"y":743,"width":413,"height":217,"type":"text","text":"# Possible Considerations:\n\n- Should consciousness be distinguished from personhood (from self-consciousness?)\n- What is the relationship to animal consciousness?"}
+		{"id":"b02ad6045cd2f23b","x":397,"y":743,"width":413,"height":217,"type":"text","text":"# Possible Considerations:\n\n- Should consciousness be distinguished from personhood (from self-consciousness?)\n- What is the relationship to animal consciousness?\n- To other kinds of consciousness? (e.g. Longergan distinguishes between empirical, intelligent, and rational consciousness)"}
 	],
 	"edges":[
 		{"id":"e83caac72de51cdf","fromNode":"c1b9df0734ba5680","fromSide":"right","toNode":"8adee208f7ce203e","toSide":"left"},
