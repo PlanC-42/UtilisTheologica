@@ -8,4 +8,4 @@ An effort to translate these disputations into Latin will be undertaken for two 
 
 As life follows no plan that is known from the outset, so will this work take up lived issues in no particular order. 
 
-I would make acknowledgements, but that would be tedious and even more pretentious than the rest of this preface. However I will take the opportunity to link an invaluable Latin lexicon tool: https://latinlexicon.org/.
+I would make acknowledgements, but that would be tedious and even more pretentious than the rest of this preface. However I will take the opportunity to link an invaluable Latin lexicon tool: https://latinlexicon.org/.]
