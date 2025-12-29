@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"125ab7a29373991c","x":-145,"y":-100,"width":1334,"height":711,"type":"group","label":"Treatise 1"},
+		{"id":"125ab7a29373991c","type":"group","x":-145,"y":-100,"width":1334,"height":711,"label":"Treatise 1"},
 		{"id":"62f3bc5691c92b70","type":"group","x":179,"y":-51,"width":290,"height":642,"label":"Q.1"},
 		{"id":"79c8b162644df86a","type":"group","x":520,"y":-51,"width":290,"height":590,"label":"Q.2"},
 		{"id":"784271893371afd6","type":"group","x":879,"y":-51,"width":290,"height":590,"label":"Q.3"},
@@ -9,14 +9,15 @@
 		{"id":"7f101fcf8fc260f4","type":"text","text":"Art. 3.2 Whether Artificial Intelligences are of a Rational Nature","x":899,"y":271,"width":250,"height":90},
 		{"id":"8d3ade51749e777f","type":"text","text":"Art 3.3 Whether Artificial Intelligences are Persons in any Sense","x":899,"y":429,"width":250,"height":90},
 		{"id":"8adee208f7ce203e","type":"text","text":"Q.3 On the Personhood of Artificial Intelligence","x":899,"y":-31,"width":250,"height":60},
+		{"id":"655704ea45c45770","type":"text","text":"Q.1 On the Powers of Artificial Intelligence","x":199,"y":-31,"width":250,"height":60},
 		{"id":"0ecd15a138df5655","type":"text","text":"Art. 1.2 Whether Artificial Intelligence Exercises the Power of Insight or Abstraction","x":199,"y":267,"width":250,"height":133},
 		{"id":"1e1f10607aa503fa","type":"text","text":"Art. 1.3 Whether Artificial Intelligence Exercises the Power of Judgement","x":199,"y":468,"width":250,"height":103},
 		{"id":"d0c16290df6a5fa3","type":"text","text":"Art. 1.1 Whether Artificial Intelligence Exercises the Powers of Sense or Conscience Experience","x":199,"y":97,"width":250,"height":120},
-		{"id":"655704ea45c45770","type":"text","text":"Q.1 On the Powers of Artificial Intelligence","x":199,"y":-31,"width":250,"height":60},
 		{"id":"c1b9df0734ba5680","type":"text","text":"Q.2. On Persons in General","x":540,"y":-30,"width":250,"height":60},
 		{"id":"909dffe24e30c87b","type":"text","text":"Art. 2.1 Whether Boethius' Definition is adequate","x":540,"y":114,"width":250,"height":60},
 		{"id":"2cbfce71a77a5158","type":"text","text":"Art. 2.2 Whether Persons are Knowable","x":540,"y":271,"width":250,"height":60},
-		{"id":"e9bdda5223f45aab","type":"text","text":"Art. 2.3 Whether All Persons are Directly Created by God","x":541,"y":426,"width":249,"height":93}
+		{"id":"e9bdda5223f45aab","type":"text","text":"Art. 2.3 Whether All Persons are Directly Created by God","x":541,"y":426,"width":249,"height":93},
+		{"id":"b02ad6045cd2f23b","x":397,"y":743,"width":413,"height":217,"type":"text","text":"# Possible Considerations:\n\n- Should consciousness be distinguished from personhood (from self-consciousness?)\n- What is the relationship to animal consciousness?"}
 	],
 	"edges":[
 		{"id":"e83caac72de51cdf","fromNode":"c1b9df0734ba5680","fromSide":"right","toNode":"8adee208f7ce203e","toSide":"left"},
@@ -32,6 +33,7 @@
 		{"id":"f30b69012f8a281a","fromNode":"655704ea45c45770","fromSide":"right","toNode":"c1b9df0734ba5680","toSide":"left"},
 		{"id":"01963617c520f4a6","fromNode":"655704ea45c45770","fromSide":"bottom","toNode":"d0c16290df6a5fa3","toSide":"top"},
 		{"id":"b1ec2dd6334d91cb","fromNode":"d0c16290df6a5fa3","fromSide":"bottom","toNode":"0ecd15a138df5655","toSide":"top"},
-		{"id":"d604cf227bf45e52","fromNode":"0ecd15a138df5655","fromSide":"bottom","toNode":"1e1f10607aa503fa","toSide":"top"}
+		{"id":"d604cf227bf45e52","fromNode":"0ecd15a138df5655","fromSide":"bottom","toNode":"1e1f10607aa503fa","toSide":"top"},
+		{"id":"6d4d962134b59f7e","fromNode":"125ab7a29373991c","fromSide":"bottom","toNode":"b02ad6045cd2f23b","toSide":"top"}
 	]
 }
