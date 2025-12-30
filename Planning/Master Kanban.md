@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] Approve Treatise 1 Plan
 	![[Planning Canvas.canvas|Planning Canvas]]
-- [ ] Art.1.1
 - [ ] Art. 1.2
 - [ ] Art 1.3
 - [ ] Art. 2.1
@@ -21,6 +20,7 @@ kanban-plugin: board
 
 ## Researching and Planning
 
+- [ ] Art.1.1
 
 
 ## Initial Draft
