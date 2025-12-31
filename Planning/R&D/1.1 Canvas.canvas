@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"5e0820ed2138e06a","x":-104,"y":-128,"width":400,"height":400,"type":"group","label":"Data"},
+		{"id":"424494f36cba9a71","x":400,"y":-128,"width":400,"height":400,"type":"group","label":"Insight"},
+		{"id":"a55dc567ce9f8433","x":900,"y":-128,"width":400,"height":400,"type":"group","label":"Judgement"}
+	],
+	"edges":[]
+}

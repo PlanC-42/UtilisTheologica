@@ -19,9 +19,9 @@ Primary Contributor: Josh
 > 
 > Note that this is written for a judgement of fact which includes experience of reality. However, it can be adapted for analytic statements by replacing data with a definition.
 
-| Cognitional Step         | Authority | Objective explanation | Objection |
-| ------------------------ | --------- | --------------------- | --------- |
-| Experiential Data        |           |                       |           |
-| Unifying Insight         |           |                       |           |
-| Judgement / Verification |           |                       |           |
-
+| Cognitional Step         | Authority                                     | Objective explanation                         | Objection                                     |
+| ------------------------ | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| Experiential Data        | <input type="checkbox" unchecked id="515f79"> | <input type="checkbox" unchecked id="1a5114"> | <input type="checkbox" unchecked id="d03a8f"> |
+| Unifying Insight         | <input type="checkbox" unchecked id="3ab5ed"> | <input type="checkbox" unchecked id="2f0adb"> | <input type="checkbox" unchecked id="7bfb22"> |
+| Judgement / Verification | <input type="checkbox" unchecked id="8cb63e"> | <input type="checkbox" unchecked id="5e6d09"> | <input type="checkbox" unchecked id="befb47"> |
+![[1.1 Canvas.canvas]]
